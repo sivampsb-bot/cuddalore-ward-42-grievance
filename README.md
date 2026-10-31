@@ -1,2 +1,13 @@
-# cuddalore-ward-42-grievance
-Cuddalore Ward 42 public grievance portal with Tamil complaint registration and admin dashboard.
+# கடலூர் வார்டு 42 குறைகள்
+
+Tamil civic grievance portal starter website for Cuddalore Ward 42.
+
+## Features
+
+- Complaint registration form
+- Photo/video upload field
+- Complaint categories
+- Status section
+- Responsive TVK-inspired red and yellow design
+
+Open `index.html` in a browser to preview the website.
